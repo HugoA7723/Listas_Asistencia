@@ -1,4 +1,6 @@
 # Listas_Asistencia
+
+# Creado por Hugo Alberto Alba Medina y Pablo de Jesus Salazar Rioú
 ¿Qué es este programa?
 Este programa es una aplicación de consola en lenguaje C diseñada para gestionar la lista de asistencia de alumnos en un grupo o clase. Permite crear, modificar, eliminar y consultar la lista de alumnos, así como registrar y visualizar la asistencia de cada uno.
 
